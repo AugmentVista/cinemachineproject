@@ -1,0 +1,13 @@
+https://github.com/AugmentVista/cinemachineproject.git
+
+
+
+
+Reflectional journal: 
+The Cinematics final project posed many challenges, several that I am still fully figuring out,
+The juggling of player, camera and sound all syncing together to create a story-like scene. 
+The idea that I could create fully animated cutscenes although rather simple in art style for now
+is something I could not say I would have had the knowledge or confidence to try prior to this. 
+The more time I've poured into unity the more I've realized that the more I learn the more I am 
+able to unlock for creating what I've wanted to sense I was a kid. 
+This won't be the first scene that I do like this although it may be the dumbest.
